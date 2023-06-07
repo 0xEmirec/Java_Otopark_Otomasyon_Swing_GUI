@@ -5,4 +5,7 @@
 
 
 #Direkt uygulama olarak çalıştırabilmeniz için jar dosyasını da ekledim.
+
+
+
 #Coded By Emirec :)
